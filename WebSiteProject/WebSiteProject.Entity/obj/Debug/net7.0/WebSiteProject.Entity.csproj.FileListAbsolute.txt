@@ -1,0 +1,12 @@
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/bin/Debug/net7.0/WebSiteProject.Entity.deps.json
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/bin/Debug/net7.0/WebSiteProject.Entity.dll
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/bin/Debug/net7.0/WebSiteProject.Entity.pdb
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/WebSiteProject.Entity.csproj.AssemblyReference.cache
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/WebSiteProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/WebSiteProject.Entity.AssemblyInfoInputs.cache
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/WebSiteProject.Entity.AssemblyInfo.cs
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/WebSiteProject.Entity.csproj.CoreCompileInputs.cache
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/WebSiteProject.Entity.dll
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/refint/WebSiteProject.Entity.dll
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/WebSiteProject.Entity.pdb
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Entity/obj/Debug/net7.0/ref/WebSiteProject.Entity.dll

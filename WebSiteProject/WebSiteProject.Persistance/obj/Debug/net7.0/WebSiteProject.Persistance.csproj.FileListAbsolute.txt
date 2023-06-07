@@ -1,0 +1,17 @@
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/bin/Debug/net7.0/WebSiteProject.Persistance.deps.json
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/bin/Debug/net7.0/WebSiteProject.Persistance.runtimeconfig.json
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/bin/Debug/net7.0/WebSiteProject.Persistance.dll
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/bin/Debug/net7.0/WebSiteProject.Persistance.pdb
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/bin/Debug/net7.0/WebSiteProject.Entity.dll
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/bin/Debug/net7.0/WebSiteProject.Entity.pdb
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.csproj.AssemblyReference.cache
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.AssemblyInfoInputs.cache
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.AssemblyInfo.cs
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.csproj.CoreCompileInputs.cache
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.csproj.CopyComplete
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.dll
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/refint/WebSiteProject.Persistance.dll
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.pdb
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/WebSiteProject.Persistance.genruntimeconfig.cache
+/Users/gokdenizyurdabakan/Documents/GitHub/Website-Project-with-C-/WebSiteProject/WebSiteProject.Persistance/obj/Debug/net7.0/ref/WebSiteProject.Persistance.dll
