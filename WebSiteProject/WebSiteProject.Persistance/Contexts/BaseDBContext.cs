@@ -11,11 +11,15 @@ namespace WebSiteProject.Persistance.Contexts
 	{//Burası kalıp böyle kullanılır.
 
         public IConfiguration Configuration { get; set; }
-        public DbSet<Articles> Articles { get; set; }
+        public DbSet<Articles> Articles { get; set; }//SQlde tablo açmak için gerekli
+		public DbSet<Category> Categories { get; set; }
+		public DbSet<Comment> Comments { get; set; }
+        public DbSet<Issuing> Issuings { get; set; }
+        public DbSet<Ticket> Tickets { get; set; }
 
 
 
-		public BaseDBContext(DbContextOptions contextOptions) :base(contextOptions)
+        public BaseDBContext(DbContextOptions contextOptions) :base(contextOptions)
 		{
 
 		}

@@ -1,59 +1,62 @@
 ﻿<Properties StartupConfiguration="{82AD5C8C-6AD9-413C-B6B8-4750C6E91D7C}|http">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.WebSiteProject.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebSiteProject.Persistance/Concreate/ArticleRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSiteProject.Entity/Entities/Articles.cs">
     <Files>
-      <File FileName="WebSiteProject.Entity/Entities/Articles.cs" Line="18" Column="100" />
-      <File FileName="WebSiteProject.Entity/Entities/BaseEntity.cs" Line="4" Column="34" />
       <File FileName="WebSiteProject.Persistance/Contexts/BaseDBContext.cs" />
-      <File FileName="WebSiteProject.Persistance/Entity Configuration/ArticleConfiguration.cs" />
+      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IRepository.cs" />
       <File FileName="WebSiteProject.Persistance/PersistanceServiceRegistiration.cs" />
-      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/ISelectableRepository.cs" />
       <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IDeletableRepository.cs" />
-      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IUpdatableRepository.cs" Line="9" Column="10" />
-      <File FileName="WebSiteProject.Persistance/Repositories/EfBaseRepository.cs" Line="41" Column="38" />
-      <File FileName="WebSiteProject.Persistance/Concreate/ArticleRepository.cs" Line="9" Column="99" />
-      <File FileName="WebSiteProject.Persistance/Abstract/IArticleRepository.cs" Line="7" Column="50" />
-      <File FileName="WebSiteProject.Entity/Entities/Category.cs" Line="15" Column="85" />
-      <File FileName="WebSiteProject.Persistance/Abstract/ICategoryRepository.cs" Line="9" Column="1" />
-      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IRepository.cs" Line="6" Column="19" />
-      <File FileName="WebSiteProject.Persistance/Concreate/CategoryRepository.cs" Line="20" Column="1" />
-      <File FileName="WebSiteProject.Entity/Entities/Comment.cs" Line="24" Column="28" />
-      <File FileName="WebSiteProject.Persistance/Abstract/ICommentRepository.cs" Line="7" Column="50" />
-      <File FileName="WebSiteProject.Persistance/Concreate/CommentRepository.cs" Line="12" Column="52" />
-      <File FileName="WebSiteProject.Entity/Entities/Issuing.cs" Line="20" Column="1" />
-      <File FileName="WebSiteProject.Persistance/Abstract/IIssuingRepository.cs" Line="10" Column="3" />
-      <File FileName="WebSiteProject.Persistance/Concreate/IssuingRepository.cs" Line="9" Column="59" />
-      <File FileName="WebSiteProject.Entity/Entities/Ticket.cs" Line="17" Column="28" />
-      <File FileName="WebSiteProject.Persistance/Abstract/ITicketRepository.cs" Line="9" Column="3" />
-      <File FileName="WebSiteProject.Persistance/Concreate/TicketRepository.cs" Line="13" Column="64" />
+      <File FileName="WebSiteProject.Persistance/Repositories/EfBaseRepository.cs" />
+      <File FileName="WebSiteProject.Entity/Entities/Articles.cs" Line="11" Column="1" />
+      <File FileName="WebSiteProject.Entity/Entities/BaseEntity.cs" />
+      <File FileName="WebSiteProject.Core/Services/IArticleService.cs" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/AddArticleDto.cs" />
+      <File FileName="WebSiteProject.Core/Managers/ArticleManager.cs" />
+      <File FileName="WebSiteProject.Persistance/Concreate/ArticleRepository.cs" />
+      <File FileName="WebSiteProject.Persistance/Abstract/IArticleRepository.cs" />
+      <File FileName="WebSiteProject.API/Controllers/ArticlesController.cs" />
+      <File FileName="WebSiteProject.Core/CoreServiceRegistiration.cs" />
+      <File FileName="WebSiteProject.API/Program.cs" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/ArticleDto.cs" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/UpdateDto.cs" />
+      <File FileName="WebSiteProject.Persistance/Entity Configuration/ArticleConfiguration.cs" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/DeleteDto.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebSiteProject" expanded="True">
-            <Node name="WebSiteProject.API" expanded="True" />
+            <Node name="WebSiteProject.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="WebSiteProject.Common" expanded="True">
+              <Node name="DTOs" expanded="True">
+                <Node name="Article" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebSiteProject.Core" expanded="True">
+              <Node name="Managers" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
             <Node name="WebSiteProject.Entity" expanded="True">
               <Node name="Entities" expanded="True" />
             </Node>
             <Node name="WebSiteProject.Persistance" expanded="True">
               <Node name="Abstract" expanded="True" />
-              <Node name="Concreate" expanded="True">
-                <Node name="ArticleRepository.cs" selected="True" />
-              </Node>
+              <Node name="Concreate" expanded="True" />
               <Node name="Contexts" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="IRepository" expanded="True" />
-              </Node>
+              <Node name="Entity Configuration" expanded="True" />
+              <Node name="Repositories" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

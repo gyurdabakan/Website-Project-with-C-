@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Managers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Managers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebSiteProject.Common\WebSiteProject.Common.csproj" />
+    <ProjectReference Include="..\WebSiteProject.Persistance\WebSiteProject.Persistance.csproj" />
+  </ItemGroup>
 </Project>

@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using WebSiteProject.Persistance.Abstract;
+using WebSiteProject.Persistance.Concreate;
 using WebSiteProject.Persistance.Contexts;
 
 namespace WebSiteProject.Persistance
@@ -14,6 +16,11 @@ namespace WebSiteProject.Persistance
                 options.UseSqlServer(
 					configuration.GetConnectionString("MyWebSiteConnectionString"));
             });//SQL Server bağlantısını yapıcaz
+
+
+			services.AddScoped<IArticleRepository, ArticleRepository>();
+			//services.AddSingleton<>araştır farklarını 
+			//services.AddTransient<>
 			return services;
 		}
 

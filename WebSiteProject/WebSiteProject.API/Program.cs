@@ -1,10 +1,11 @@
 ﻿using WebSiteProject.Persistance;
+using WebSiteProject.Core;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddpersistanceServices(builder.Configuration);
-    
+builder.Services.AddCoreServices();
 
 
 builder.Services.AddControllers();
