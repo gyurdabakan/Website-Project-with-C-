@@ -19,6 +19,7 @@ namespace WebSiteProject.Persistance
 
 
 			services.AddScoped<IArticleRepository, ArticleRepository>();
+			services.AddScoped<ICategoryRepository, CategoryRepository>();
 			//services.AddSingleton<>araştır farklarını 
 			//services.AddTransient<>
 			return services;

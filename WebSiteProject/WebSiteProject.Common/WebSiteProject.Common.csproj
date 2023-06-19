@@ -9,9 +9,17 @@
   <ItemGroup>
     <None Remove="DTOs\" />
     <None Remove="DTOs\Article\" />
+    <None Remove="DTOs\Category\" />
+    <None Remove="DTOs\Comment\" />
+    <None Remove="DTOs\Issuing\" />
+    <None Remove="DTOs\Ticket\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DTOs\" />
     <Folder Include="DTOs\Article\" />
+    <Folder Include="DTOs\Category\" />
+    <Folder Include="DTOs\Comment\" />
+    <Folder Include="DTOs\Issuing\" />
+    <Folder Include="DTOs\Ticket\" />
   </ItemGroup>
 </Project>

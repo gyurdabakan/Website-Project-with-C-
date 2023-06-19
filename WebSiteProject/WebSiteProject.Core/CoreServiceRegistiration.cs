@@ -10,6 +10,7 @@ namespace WebSiteProject.Core
 		public static IServiceCollection AddCoreServices(this IServiceCollection services)
 		{
 			services.AddScoped<IArticleService, ArticleManager>();
+			services.AddScoped<ICategoryService, CategoryManager>();
 
 			return services;
 		}
