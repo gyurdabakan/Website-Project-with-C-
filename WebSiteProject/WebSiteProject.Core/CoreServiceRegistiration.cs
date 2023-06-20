@@ -11,6 +11,7 @@ namespace WebSiteProject.Core
 		{
 			services.AddScoped<IArticleService, ArticleManager>();
 			services.AddScoped<ICategoryService, CategoryManager>();
+			services.AddScoped<ICommentService, CommentManager>();
 
 			return services;
 		}

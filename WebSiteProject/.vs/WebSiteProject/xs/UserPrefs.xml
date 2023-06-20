@@ -1,28 +1,59 @@
 ﻿<Properties StartupConfiguration="{82AD5C8C-6AD9-413C-B6B8-4750C6E91D7C}|http">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.WebSiteProject.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebSiteProject.Entity/Entities/Articles.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSiteProject.Persistance/Entity Configuration/TicketConfiguration.cs">
     <Files>
-      <File FileName="WebSiteProject.Persistance/Contexts/BaseDBContext.cs" />
-      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IRepository.cs" />
-      <File FileName="WebSiteProject.Persistance/PersistanceServiceRegistiration.cs" />
-      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IDeletableRepository.cs" />
-      <File FileName="WebSiteProject.Persistance/Repositories/EfBaseRepository.cs" />
-      <File FileName="WebSiteProject.Entity/Entities/Articles.cs" Line="11" Column="1" />
-      <File FileName="WebSiteProject.Entity/Entities/BaseEntity.cs" />
-      <File FileName="WebSiteProject.Core/Services/IArticleService.cs" />
-      <File FileName="WebSiteProject.Common/DTOs/Article/AddArticleDto.cs" />
-      <File FileName="WebSiteProject.Core/Managers/ArticleManager.cs" />
-      <File FileName="WebSiteProject.Persistance/Concreate/ArticleRepository.cs" />
-      <File FileName="WebSiteProject.Persistance/Abstract/IArticleRepository.cs" />
-      <File FileName="WebSiteProject.API/Controllers/ArticlesController.cs" />
-      <File FileName="WebSiteProject.Core/CoreServiceRegistiration.cs" />
-      <File FileName="WebSiteProject.API/Program.cs" />
-      <File FileName="WebSiteProject.Common/DTOs/Article/ArticleDto.cs" />
-      <File FileName="WebSiteProject.Common/DTOs/Article/UpdateDto.cs" />
-      <File FileName="WebSiteProject.Persistance/Entity Configuration/ArticleConfiguration.cs" />
-      <File FileName="WebSiteProject.Common/DTOs/Article/DeleteDto.cs" Line="7" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Entity Configuration/ArticleConfiguration.cs" Line="20" Column="73" />
+      <File FileName="WebSiteProject.Entity/Entities/Articles.cs" Line="4" Column="15" />
+      <File FileName="WebSiteProject.Entity/Entities/Category.cs" Line="7" Column="1" />
+      <File FileName="WebSiteProject.Entity/Entities/Issuing.cs" Line="26" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Entity Configuration/CommentConfiguration.cs" Line="14" Column="38" />
+      <File FileName="WebSiteProject.Entity/Entities/Comment.cs" Line="6" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Entity Configuration/IssuingConfiguration.cs" Line="14" Column="38" />
+      <File FileName="WebSiteProject.Persistance/Entity Configuration/TicketConfiguration.cs" Line="25" Column="1" />
+      <File FileName="WebSiteProject.Entity/Entities/Ticket.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Core/Managers/ArticleManager.cs" Line="31" Column="51" />
+      <File FileName="WebSiteProject.Core/Services/IArticleService.cs" Line="6" Column="19" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/AddArticleDto.cs" Line="10" Column="1" />
+      <File FileName="WebSiteProject.API/Controllers/ArticlesController.cs" Line="16" Column="41" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/ArticleDto.cs" Line="4" Column="15" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/DeleteDto.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Common/DTOs/Article/UpdateDto.cs" Line="15" Column="6" />
+      <File FileName="WebSiteProject.Common/DTOs/Category/AddCategoryDto.cs" Line="18" Column="1" />
+      <File FileName="WebSiteProject.Common/DTOs/Category/CategoryDto.cs" Line="15" Column="1" />
+      <File FileName="WebSiteProject.Common/DTOs/Category/DeleteCategoryDto.cs" Line="6" Column="17" />
+      <File FileName="WebSiteProject.Common/DTOs/Category/UpdateCategoryDto.cs" Line="13" Column="6" />
+      <File FileName="WebSiteProject.Common/DTOs/Comment/AddCommentDto.cs" Line="11" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Comment/CommentDto.cs" Line="12" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Comment/DeleteCategoryDto.cs" Line="6" Column="16" />
+      <File FileName="WebSiteProject.Common/DTOs/Comment/UpdateCategoryDto.cs" Line="12" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Issuing/AddIssuingDto.cs" Line="9" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Issuing/IssuingDto.cs" Line="10" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Issuing/DeleteIssuingDto.cs" Line="6" Column="16" />
+      <File FileName="WebSiteProject.Common/DTOs/Issuing/UpdateIssuingDto.cs" Line="10" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Ticket/AddTicketDto.cs" Line="9" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Ticket/TicketDto.cs" Line="10" Column="43" />
+      <File FileName="WebSiteProject.Common/DTOs/Ticket/DeleteTicketDto.cs" Line="6" Column="16" />
+      <File FileName="WebSiteProject.Common/DTOs/Ticket/UpdateTicketDto.cs" Line="10" Column="43" />
+      <File FileName="WebSiteProject.Core/Services/ICategoryService.cs" Line="9" Column="8" />
+      <File FileName="WebSiteProject.Persistance/Abstract/IArticleRepository.cs" Line="14" Column="1" />
+      <File FileName="WebSiteProject.Core/Managers/CategoryManager.cs" Line="59" Column="48" />
+      <File FileName="WebSiteProject.Persistance/Abstract/ICategoryRepository.cs" Line="14" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IRepository.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Repositories/IRepository/IAddableRepository.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Abstract/ICommentRepository.cs" Line="7" Column="118" />
+      <File FileName="WebSiteProject.Persistance/Abstract/IIssuingRepository.cs" Line="9" Column="119" />
+      <File FileName="WebSiteProject.Persistance/Abstract/ITicketRepository.cs" Line="7" Column="115" />
+      <File FileName="WebSiteProject.API/Controllers/CategoryController.cs" Line="43" Column="38" />
+      <File FileName="WebSiteProject.Persistance/Concreate/ArticleRepository.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Concreate/CategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Repositories/EfBaseRepository.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Persistance/PersistanceServiceRegistiration.cs" Line="31" Column="1" />
+      <File FileName="WebSiteProject.API/Program.cs" Line="1" Column="1" />
+      <File FileName="WebSiteProject.API/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebSiteProject.Persistance/Contexts/BaseDBContext.cs" Line="14" Column="30" />
+      <File FileName="WebSiteProject.Core/CoreServiceRegistiration.cs" Line="13" Column="60" />
+      <File FileName="WebSiteProject.Persistance/Entity Configuration/CategoryConfiguration.cs" Line="14" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -33,7 +64,8 @@
             </Node>
             <Node name="WebSiteProject.Common" expanded="True">
               <Node name="DTOs" expanded="True">
-                <Node name="Article" expanded="True" />
+                <Node name="Category" expanded="True" />
+                <Node name="Ticket" expanded="True" />
               </Node>
             </Node>
             <Node name="WebSiteProject.Core" expanded="True">
@@ -47,8 +79,12 @@
               <Node name="Abstract" expanded="True" />
               <Node name="Concreate" expanded="True" />
               <Node name="Contexts" expanded="True" />
-              <Node name="Entity Configuration" expanded="True" />
-              <Node name="Repositories" expanded="True" />
+              <Node name="Entity Configuration" expanded="True">
+                <Node name="TicketConfiguration.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True">
+                <Node name="IRepository" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -58,5 +94,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebSiteProject.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

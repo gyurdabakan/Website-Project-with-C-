@@ -92,6 +92,7 @@ namespace WebSiteProject.Core.Managers
         public void UpdateCategory(UpdateCategoryDto dto)
         {
             Category category = new Category();
+            category.Id = dto.Id;
             category.categoryName = dto.CategoryName;
             category.CreatedDate = dto.CreateDate;
             category.UpdateDate = dto.UpdateDate;

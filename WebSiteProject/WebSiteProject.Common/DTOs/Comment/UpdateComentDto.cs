@@ -1,7 +1,7 @@
 ﻿using System;
 namespace WebSiteProject.Common.DTOs.Comment
 {
-	public class UpdateCategoryDto
+	public class UpdateCommentDto
 	{
         public int Id { get; set; }
         public string Title { get; set; }
